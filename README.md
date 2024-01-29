@@ -50,7 +50,7 @@ $ python Run.py
 - Maybe you entered your username or password incorrectly.
 - Don't use two-factor authentication on fake accounts.
 - Your fake account password is blocked so you are required to change the password first.
-- Your fake account has been checkpointed or disabled.
+- Your fake account has been deactivated by Instagram or hit by a checkpoint.
 
 ### When will the followers arrive?
 Followers can arrive in your account in 1 to 10 minutes, and every 30 minutes the credit in the service will be reset.
