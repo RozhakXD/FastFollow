@@ -36,14 +36,14 @@ $ python Run.py
 ```
 
 ### Failed to send followers?
-- There may be no users on the service so it is not possible to exchange followers.
 - Maybe the service is being repaired or is undergoing maintenance.
+- There may be no users on the service so it is not possible to exchange followers.
 - Maybe you entered your username incorrectly or your Instagram account is locked.
 
 ### How to keep your account safe?
 - The account is equipped with a telephone number and email so that it is not suspected of being a spam account.
-- Use a fake account or a new account or an unused account to log in to Termux.
 - Change the password after using this tools.
+- Use a fake account or a new account or an unused account to log in to Termux.
 
 ### Why login failed?
 - You can log in manually in the **"[https://fastfollow.in](https://fastfollow.in)"** service and then log in in Termux again.
