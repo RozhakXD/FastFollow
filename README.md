@@ -46,8 +46,8 @@ $ python Run.py
 - Use a fake account or a new account or an unused account to log in to Termux.
 
 ### Why login failed?
-- Your fake account has been deactivated by Instagram or hit by a checkpoint.
 - You can log in manually in the **[https://fastfollow.in](https://fastfollow.in)** service and then log in in Termux again.
+- Your fake account has been deactivated by Instagram or hit by a checkpoint.
 - Maybe you entered your username or password incorrectly.
 - Your fake account password is blocked so you are required to change the password first.
 - Don't use two-factor authentication on fake accounts.
