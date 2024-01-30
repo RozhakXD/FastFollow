@@ -52,6 +52,11 @@ $ python Run.py
 - Your fake account password is blocked so you are required to change the password first.
 - Don't use two-factor authentication on fake accounts.
 
+### Why are followers dropping?
+- Maybe the account that follows you has been blocked or disabled by Instagram.
+- They unfollow you on your account.
+- Instagram sees spam activity on your account so they delete followers.
+
 ### When will the followers arrive?
 Followers can arrive in your account in 1 to 10 minutes, and every 30 minutes the credit in the service will be reset.
 
